@@ -8,12 +8,6 @@ Netflix Discover is a content recommendation application developed using Python 
 
 The application allows users to search for a movie or TV show and explore recommendations based on their selection.
 
-## Dataset
-
-The project uses the Netflix Movies and TV Shows dataset from Kaggle.
-
-[Netflix Dataset – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-
 ## Features
 
 - Searchable movie and TV show selection.
