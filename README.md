@@ -2,6 +2,10 @@
 
 A content-based recommendation system that suggests movies and TV shows based on the selected title using metadata and machine learning techniques.
 
+## Live Demo
+
+[View Live Application](https://netflix-discover.onrender.com/)
+
 ## About the Project
 
 Netflix Discover is a content recommendation application developed using Python and Streamlit. It uses information such as genres, directors, countries, ratings and content types to identify titles with similar characteristics.
